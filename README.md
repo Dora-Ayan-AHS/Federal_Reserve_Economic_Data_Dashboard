@@ -10,6 +10,7 @@ Used data visualization techniques to identify trends in key economic indicators
 Applied data analysis skills to interpret relationships among inflation, employment, and monetary policy.
 
 Presented findings through charts and summary statistics.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from pandas_datareader import data as web
